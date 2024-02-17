@@ -1,0 +1,10 @@
+.card {
+  margin: 20px;
+}
+
+
+.card-footer {
+  background-color:chocolate;
+  padding: 10px;
+  text-align: center;
+}
